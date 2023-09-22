@@ -1,0 +1,1 @@
+module.exports.addWallets = require('./addWallets.controller');

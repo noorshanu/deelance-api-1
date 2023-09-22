@@ -1,0 +1,10 @@
+module.exports.analyticDetail = require("./analytics.services");
+module.exports.nftBuySale = require("./buySale.service.js");
+module.exports.topCreators = require("./topCreators.service.js");
+module.exports.topProjects = require("./topProjects.service")
+module.exports.topBuyers = require("./topBuyers.service")
+module.exports.topSeller = require("./topSeller.service")
+module.exports.sellHistory = require("./sellHistory.service")
+module.exports.getAllNFTupdate = require('./getAllNFTupdate.service')
+module.exports.getSalesHisory= require('./getSalesHistory.service')
+module.exports.salesCount= require('./salesCount.service')

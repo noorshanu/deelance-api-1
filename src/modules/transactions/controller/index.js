@@ -1,0 +1,5 @@
+module.exports.getTopseller = require('../controller/getTopseller.controller')
+module.exports.getTopBuyer = require('../controller/getTopBuyer.controller')
+module.exports.getTopCreator = require('../controller/getTopCreator.controller')
+module.exports.addTransaction = require('../controller/addTransaction.controller')
+module.exports.salesGraph = require('../controller/salesGraph.controller')
